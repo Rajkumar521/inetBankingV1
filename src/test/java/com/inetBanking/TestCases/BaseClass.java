@@ -66,7 +66,7 @@ public class BaseClass {
 		driver.manage().window().maximize();
 		driver.get(baseUrl);;
 		
-		Logger  = Logger.getLogger("ebanking");
+		Logger  = org.apache.log4j.Logger.getLogger("ebanking");
 		PropertyConfigurator.configure("log4j.properties");
 		 
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -78,7 +78,7 @@ public class BaseClass {
 		driver.quit();
 	}
 	
-	public void captureScreenshot(WebDriver driver , String screenshot_name) {
+	public static void captureScreenshot(WebDriver driver , String screenshot_name) {
 		TakesScreenshot ts = (TakesScreenshot)driver;
 		File src = ts.getScreenshotAs(OutputType.FILE);
 		try {
@@ -96,9 +96,10 @@ public class BaseClass {
 		return(random_String);
 	}
 	
-	public static String randomNum() {
-		String random_num = RandomStringUtils.randomNumeric(4);
+	public static String randomNum(int num) {
+		String random_num = RandomStringUtils.randomNumeric(num);
 		return (random_num);
 	}
 
+	
 }

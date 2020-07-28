@@ -375,3 +375,119 @@
 2020-07-27 03:05:24,245 [main] INFO ebanking - Entered Password
 2020-07-27 03:05:26,662 [main] INFO ebanking - LogIn Successfully
 2020-07-27 03:05:26,696 [main] INFO ebanking - LogIn Test is Passed
+2020-07-27 14:55:23,450 [main] INFO ebanking - Entered UserName
+2020-07-27 14:55:23,553 [main] INFO ebanking - Entered Password
+2020-07-27 14:55:23,989 [main] INFO ebanking - LogIn Successfully
+2020-07-27 15:04:08,173 [main] INFO ebanking - Entered UserName
+2020-07-27 15:04:08,494 [main] INFO ebanking - Entered Password
+2020-07-27 15:04:11,471 [main] INFO ebanking - LogIn Successfully
+2020-07-27 15:04:11,499 [main] INFO ebanking - LogIn Test is Passed
+2020-07-27 15:07:09,418 [main] INFO ebanking - Entered UserName
+2020-07-27 15:07:09,780 [main] INFO ebanking - Entered Password
+2020-07-27 15:07:12,469 [main] INFO ebanking - LogIn Successfully
+2020-07-27 15:07:12,934 [main] INFO ebanking - LogIn Test is Passed
+2020-07-27 15:10:26,611 [main] INFO ebanking - Entered UserName
+2020-07-27 15:10:27,256 [main] INFO ebanking - Entered Password
+2020-07-27 15:10:30,032 [main] INFO ebanking - LogIn Successfully
+2020-07-27 15:10:30,059 [main] INFO ebanking - LogIn Test is Passed
+2020-07-27 16:04:20,127 [main] INFO ebanking - Entered UserName
+2020-07-27 16:04:20,353 [main] INFO ebanking - Entered Password
+2020-07-27 16:04:22,811 [main] INFO ebanking - LogIn Successfully
+2020-07-27 16:04:22,839 [main] INFO ebanking - LogIn Test is Passed
+2020-07-27 16:05:05,501 [main] INFO ebanking - Entered UserName
+2020-07-27 16:05:05,763 [main] INFO ebanking - Entered Password
+2020-07-27 16:05:06,532 [main] INFO ebanking - LogIn Successfully
+2020-07-27 16:06:00,449 [main] INFO ebanking - Entered UserName
+2020-07-27 16:06:00,700 [main] INFO ebanking - Entered Password
+2020-07-27 16:06:03,229 [main] INFO ebanking - LogIn Successfully
+2020-07-27 16:06:03,282 [main] INFO ebanking - LogIn Test is Passed
+2020-07-27 16:07:13,485 [main] INFO ebanking - Entered UserName
+2020-07-27 16:07:13,676 [main] INFO ebanking - Entered Password
+2020-07-27 16:07:16,895 [main] INFO ebanking - LogIn Successfully
+2020-07-27 16:07:16,920 [main] INFO ebanking - LogIn Test is Passed
+2020-07-27 16:07:57,077 [main] INFO ebanking - Entered UserName
+2020-07-27 16:07:57,286 [main] INFO ebanking - Entered Password
+2020-07-27 16:07:57,857 [main] INFO ebanking - LogIn Successfully
+2020-07-27 16:10:42,656 [main] INFO ebanking - Entered UserName
+2020-07-27 16:10:42,970 [main] INFO ebanking - Entered Password
+2020-07-27 16:10:45,638 [main] INFO ebanking - LogIn Successfully
+2020-07-27 16:10:45,660 [main] INFO ebanking - LogIn Test is Passed
+2020-07-27 16:45:07,909 [main] INFO ebanking - Entered UserName
+2020-07-27 16:45:08,082 [main] INFO ebanking - Entered Password
+2020-07-27 16:45:10,954 [main] INFO ebanking - LogIn Successfully
+2020-07-27 16:45:10,992 [main] INFO ebanking - LogIn Test is Passed
+2020-07-27 23:04:53,385 [main] INFO ebanking - Entered UserName
+2020-07-27 23:04:53,704 [main] INFO ebanking - Entered Password
+2020-07-27 23:04:56,620 [main] INFO ebanking - LogIn Successfully
+2020-07-27 23:04:56,944 [main] INFO ebanking - LogIn Test is Passed
+2020-07-27 23:10:06,584 [main] INFO ebanking - Entered UserName
+2020-07-27 23:10:06,847 [main] INFO ebanking - Entered Password
+2020-07-27 23:10:09,799 [main] INFO ebanking - LogIn Successfully
+2020-07-27 23:10:10,187 [main] INFO ebanking - LogIn Test is Passed
+2020-07-27 23:14:07,705 [main] INFO ebanking - Entered UserName
+2020-07-27 23:14:07,947 [main] INFO ebanking - Entered Password
+2020-07-27 23:14:10,804 [main] INFO ebanking - LogIn Successfully
+2020-07-27 23:14:10,826 [main] INFO ebanking - LogIn Test is Passed
+2020-07-28 12:48:44,294 [main] INFO ebanking - Succesfully logIn
+2020-07-28 13:44:10,791 [main] INFO ebanking - UserName Provided
+2020-07-28 13:44:11,048 [main] INFO ebanking - Password Provided
+2020-07-28 13:44:14,449 [main] INFO ebanking - Submited
+2020-07-28 13:44:19,517 [main] INFO ebanking - !-----Providig the Customer Details-----!
+2020-07-28 13:44:27,551 [main] INFO ebanking - Details Submitted
+2020-07-28 13:44:31,116 [main] INFO ebanking - TestCase Passed
+2020-07-28 13:46:44,379 [main] INFO ebanking - UserName Provided
+2020-07-28 13:46:44,940 [main] INFO ebanking - Password Provided
+2020-07-28 13:46:47,509 [main] INFO ebanking - Submited
+2020-07-28 13:46:52,602 [main] INFO ebanking - !-----Providig the Customer Details-----!
+2020-07-28 13:47:01,076 [main] INFO ebanking - Details Submitted
+2020-07-28 13:47:04,623 [main] INFO ebanking - TestCase Passed
+2020-07-28 13:47:04,624 [main] INFO ebanking - !-----Providig the Customer Details-----!
+2020-07-28 13:47:11,400 [main] INFO ebanking - Details Submitted
+2020-07-28 13:47:14,983 [main] INFO ebanking - TestCase Passed
+2020-07-28 13:47:14,984 [main] INFO ebanking - !-----Providig the Customer Details-----!
+2020-07-28 13:47:21,892 [main] INFO ebanking - Details Submitted
+2020-07-28 13:47:25,423 [main] INFO ebanking - TestCase Passed
+2020-07-28 13:47:25,424 [main] INFO ebanking - !-----Providig the Customer Details-----!
+2020-07-28 13:47:32,750 [main] INFO ebanking - Details Submitted
+2020-07-28 13:47:36,216 [main] INFO ebanking - TestCase Passed
+2020-07-28 15:38:19,492 [main] INFO ebanking - UserName Provided
+2020-07-28 15:38:19,669 [main] INFO ebanking - Password Provided
+2020-07-28 15:38:22,036 [main] INFO ebanking - Submited
+2020-07-28 15:38:27,165 [main] INFO ebanking - !-----Providig the Customer Details-----!
+2020-07-28 15:38:36,264 [main] INFO ebanking - Details Submitted
+2020-07-28 15:38:40,092 [main] INFO ebanking - TestCase Passed
+2020-07-28 15:38:40,093 [main] INFO ebanking - !-----Providig the Customer Details-----!
+2020-07-28 15:38:48,799 [main] INFO ebanking - Details Submitted
+2020-07-28 15:38:52,418 [main] INFO ebanking - TestCase Passed
+2020-07-28 15:38:52,419 [main] INFO ebanking - !-----Providig the Customer Details-----!
+2020-07-28 15:38:59,069 [main] INFO ebanking - Details Submitted
+2020-07-28 15:39:02,545 [main] INFO ebanking - TestCase Passed
+2020-07-28 15:39:02,546 [main] INFO ebanking - !-----Providig the Customer Details-----!
+2020-07-28 15:39:08,889 [main] INFO ebanking - Details Submitted
+2020-07-28 15:41:54,119 [main] INFO ebanking - Succesfully logIn
+2020-07-28 15:43:52,649 [main] INFO ebanking - Succesfully logIn
+2020-07-28 15:45:55,151 [main] INFO ebanking - Succesfully logIn
+2020-07-28 15:56:30,109 [main] INFO ebanking - logIn Succesfully
+2020-07-28 15:56:34,302 [main] INFO EditCustomer - Cust Id is Entered
+2020-07-28 15:56:42,044 [main] INFO EditCustomer - Cust Id is Submitted
+2020-07-28 15:56:42,517 [main] INFO EditCustomer - Customer Address changed
+2020-07-28 15:56:43,037 [main] INFO EditCustomer - Customer city changed
+2020-07-28 15:56:43,420 [main] INFO EditCustomer - Customer State changed
+2020-07-28 15:56:43,775 [main] INFO EditCustomer - Customer Pincode changed
+2020-07-28 15:56:44,121 [main] INFO EditCustomer - Customer MobileNum changed
+2020-07-28 15:56:47,885 [main] INFO EditCustomer - Changed Values are submitted
+2020-07-28 15:56:48,562 [main] INFO ebanking - TestCase Passed
+2020-07-28 15:56:53,213 [main] INFO EditCustomer - Continue button clicked
+2020-07-28 15:56:53,321 [main] INFO ebanking - Succesfully navigated to Manager Page
+2020-07-28 15:58:22,394 [main] INFO ebanking - logIn Succesfully
+2020-07-28 15:58:24,328 [main] INFO EditCustomer - Cust Id is Entered
+2020-07-28 15:58:25,617 [main] INFO EditCustomer - Cust Id is Submitted
+2020-07-28 15:58:26,017 [main] INFO EditCustomer - Customer Address changed
+2020-07-28 15:58:26,911 [main] INFO EditCustomer - Customer city changed
+2020-07-28 15:58:27,222 [main] INFO EditCustomer - Customer State changed
+2020-07-28 15:58:27,551 [main] INFO EditCustomer - Customer Pincode changed
+2020-07-28 15:58:27,853 [main] INFO EditCustomer - Customer MobileNum changed
+2020-07-28 15:58:30,731 [main] INFO EditCustomer - Changed Values are submitted
+2020-07-28 15:58:31,399 [main] INFO ebanking - TestCase Passed
+2020-07-28 15:58:32,522 [main] INFO EditCustomer - Continue button clicked
+2020-07-28 15:58:32,629 [main] INFO ebanking - Succesfully navigated to Manager Page

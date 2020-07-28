@@ -11,6 +11,7 @@ public class TC_NewCust_003 extends BaseClass{
 
 	@Test
 	public void addCustomer() throws InterruptedException {
+		
 		LogInPage lp = new LogInPage(driver);
 		lp.setUserName(username);
 		Logger.info("UserName Provided");
@@ -22,6 +23,7 @@ public class TC_NewCust_003 extends BaseClass{
 		
 		Thread.sleep(5000);
 		
+		for(int i=0;i<=3;i++) {
 		AddNewCustomer ad = new AddNewCustomer(driver);
 		
 		Logger.info("!-----Providig the Customer Details-----!");
@@ -46,6 +48,7 @@ public class TC_NewCust_003 extends BaseClass{
 		Logger.info("Details Submitted");
 		Thread.sleep(3000);
 
+		BaseClass.captureScreenshot(driver,"Customer_"+i+"_details");
 				
 		String act_str =driver.findElement(By.xpath("//p[@class='heading3']")).getText(); 
 
@@ -56,7 +59,7 @@ public class TC_NewCust_003 extends BaseClass{
 		
 		Assert.assertEquals(act_str, Exp_str,"Test Case failed");
 		Logger.info("TestCase Passed");
-
+		}
 	
 	}
 	

@@ -9,6 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 public class AddNewCustomer {
 
 	WebDriver ldriver;
+	
 	public AddNewCustomer(WebDriver rdriver) {
 		ldriver = rdriver;
 		PageFactory.initElements(rdriver, ldriver);
